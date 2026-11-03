@@ -7,3 +7,7 @@
 4. git status - Displays the current repository status.
 
 5. git push - Uploads local commits to a remote repository.
+
+6. git pull - Downloads and integrates changes from a remote repository.
+
+7. git branch - Lists or manages branches.
